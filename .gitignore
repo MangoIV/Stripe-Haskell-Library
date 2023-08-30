@@ -24,3 +24,5 @@ cabal.project.local~
 
 # Ignnore code generation output directory
 out/
+.direnv
+.pre-commit-config.yaml
